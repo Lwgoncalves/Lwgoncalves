@@ -1,16 +1,19 @@
-## Hi there 👋
+Sobre mim
 
-<!--
-**Lwgoncalves/Lwgoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software e desenvolvedor Backend em formação. Tenho interesse em programação, tecnologia e desenvolvimento de sistemas, buscando constantemente aprender novas ferramentas e aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tecnologias
+Python
+Java
+Spring Boot
+SQL
+Git
+GitHub
+Visual Studio Code
+
+Certificados
+Certificados em tecnologia e desenvolvimento de software
+Cursos complementares na área de programação
+Cursos de aperfeiçoamento profissional
